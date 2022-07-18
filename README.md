@@ -1,4 +1,4 @@
-# TugasIfobula
+# TugasIfabula
 
 Berikut ini saya kumpulan tugas untuk kebutuhan seleksi pada instansi PGI Data.
 
